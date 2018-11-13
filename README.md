@@ -2,6 +2,8 @@
 
 ## Overview
 
+![](ios-screen.gif)    ![](android-screen.gif)      
+
 This repository implements Herd, an application to facilitate safe and enjoyable club nights, using React Native.
 
 ## Documentation
